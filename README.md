@@ -120,3 +120,12 @@ http://localhost:9100 — node-exporter (метрики)
 Итого:
 ![alt text](image-42.png)
 
+
+Задание 4
+
+Выгрузка в json:
+
+[text](<CPU utilization (в процентах, 100 - idle)-1775227050310.json>)
+
+
+Спасибо!
